@@ -15,14 +15,14 @@ Users should be able to:
 
 ![](./.docs/design/desktop-design.jpg)
 
-# Working in `fm-huddle-introductrory-section` repository
+# Working in `fm-huddle-introductory-section` repository
 
 ## Clone this project to your machine
 
 Make sure you have Git & NodeJS installed in your system, open new terminal, run the following command:
 
 ```
-git clone https://github.com/haquanq/fm-huddle-introductrory-section.git
+git clone https://github.com/haquanq/fm-huddle-introductory-section.git
 ```
 
 Then, run `npm install` to install all dependencies.

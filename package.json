@@ -1,6 +1,6 @@
 {
-  "name": "fm-huddle-introductrory-section",
-  "description": "Solution for frontendmentor.io challenge: fm-huddle-introductrory-section",
+  "name": "fm-huddle-introductory-section",
+  "description": "Solution for frontendmentor.io challenge: fm-huddle-introductory-section",
   "devDependencies": {
     "browser-sync": "^3.0.2"
   },
