@@ -78,7 +78,7 @@ h6 {
     object-position: center top;
 }
 .main__layout {
-    width: min(100vw - 4.25rem, 80rem);
+    width: min(100vw - 4.25rem, 81.25rem);
     margin: 0 auto;
 }
 .main__logo {
@@ -211,7 +211,7 @@ h6 {
     .main__logo {
         position: relative;
         top: -0.0625rem;
-        left: -0.6875rem;
+        left: -1px;
         max-height: 3.375rem;
         margin-bottom: 5.3125rem;
     }
@@ -219,8 +219,6 @@ h6 {
         display: flex;
     }
     .intro__image {
-        position: relative;
-        left: -0.625rem;
         object-fit: contain;
         margin: 0;
         width: initial;
@@ -230,12 +228,13 @@ h6 {
     .intro__content {
         width: 100%;
         padding-top: 2.6875rem;
-        padding-left: 2.5625rem;
+        padding-left: 3.1875rem;
         text-align: start;
         display: block;
     }
     .intro__social {
         float: right;
+        margin-right: 0.625rem;
     }
     .intro__headline {
         font-size: var(--text-lg-3);
