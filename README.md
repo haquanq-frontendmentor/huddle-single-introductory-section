@@ -39,7 +39,6 @@ Developed with mobile-first workflow, followed with [ARIA Authoring Practices Gu
 | ------------- | ---------------------------------- |
 | `HTML`        | Standard markup language           |
 | `CSS`         | Vanilla CSS                        |
-| `JavsScript`  | Without any library                |
 | `BrowserSync` | Development server, live reloading |
 
 ## :astronaut: Working in this repository
