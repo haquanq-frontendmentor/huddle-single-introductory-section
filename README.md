@@ -1,45 +1,63 @@
-# Frontend Mentor - Huddle landing page with single introductory section solution
+## Frontend Mentor - Huddle landing page with single introductory section solution
 
 This is a solution to the [Huddle landing page with single introductory section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
+<p>
+  <a href="https://www.frontendmentor.io/solutions/responsive-introductory-section-w-html---css-WnBPD2qFSK">
+    <img
+      alt="Solution post"
+      src="https://img.shields.io/badge/Frontendmentor-blue?label=Solution%20on"
+    /></a>
+  <a href="https://haquanq-frontendmentor.github.io/huddle-single-introductory-section/">
+    <img
+      alt="Live demo"
+      src="https://img.shields.io/badge/Demo-teal?label=Live"
+    /></a>
+  <a href="./LICENSE"
+    ><img
+      allt="MIT License"
+      src="https://img.shields.io/badge/MIT-blue?label=license"
+  /></a>
+</p>
+
 ## Table of contents
 
-- [Project overview](#rocket-project-overview)
-- [Development workflow](#boat-development-workflow)
+- [Project overview](#sunrise-project-overview)
+- [Development workflow](#stars-development-workflow)
 - [Working in this repository](#astronaut-working-in-this-repository)
-- [License](#page_with_curl-license)
 
-## :rocket: Project overview
+## :sunrise: Project overview
 
 ### Challenge equirements
 
 - View the optimal layout for the page depending on their device's screen size
 - See hover states for all interactive elements on the page
 
-### Implemented features
+### Todo
 
 Accessibility
 
 - [x] Responsive accross different screen sizes
-- [x] Added custom indicator when interactive elements focused
+- [x] Interactive elemetns have clear focus indicator
 
 ### Preview
 
-![](./.docs/design/desktop-design.jpg)
+![](./docs/design/desktop-design.jpg)
 
-## :boat: Development workflow
+## :stars: Development workflow
 
 ### Approach
 
-Developed with mobile-first workflow, followed with [ARIA Authoring Practices Guide (APG)](https://www.w3.org/WAI/ARIA/apg/)
+Site built with mobile-first workflow to prioritize mobile devices, made accessible using [ARIA Authoring Practices Guide (APG)](https://www.w3.org/WAI/ARIA/apg/).
 
-### Built with
+### Tools
 
-| Tool          | Note                               |
-| ------------- | ---------------------------------- |
-| `HTML`        | Standard markup language           |
-| `CSS`         | Vanilla CSS                        |
-| `BrowserSync` | Development server, live reloading |
+- **HTML + CSS:** vanilla CSS for styling.
+- **Browsersync:** live development server (sync files changes).
+
+### Deployment
+
+- Deployed on github page using Github Actions (manually triggered).
 
 ## :astronaut: Working in this repository
 
@@ -55,7 +73,7 @@ Having these tools installed:
 Open new terminal, run the following command:
 
 ```
-git clone https://github.com/haquanq/fm-huddle-introductory-section.git
+git clone https://github.com/haquanq-frontendmentor/huddle-single-introductory-section.git
 ```
 
 Then, run `npm install` to install all dependencies.
@@ -64,14 +82,10 @@ Then, run `npm install` to install all dependencies.
 npm install
 ```
 
-## Development workflow
+### Start development server
 
 In terminal, run `npm run dev` to start development server:
 
 ```
 npm run dev
 ```
-
-# :page_with_curl: License
-
-This project follows [MIT License](./LICENSE). **DO NOT** use this project as your solution on [Frontend mentor](https://www.frontendmentor.io/solutions).
